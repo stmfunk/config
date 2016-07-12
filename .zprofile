@@ -9,7 +9,7 @@ RPROMPT="%{$fg[white]%}%?%{$reset_color%}"
 alias ls="ls -GF"
 alias vim="sudo vim"
 alias updatedb="sudo /usr/libexec/locate.updatedb"
-PATH=$PATH:/opt/lib/bin:/opt/local/bin:/Users/donal/.bin
+PATH=$PATH:/opt/lib/bin:/opt/local/bin:/Users/donal/.bin:/Users/donal/.sbin
 HISTSIZE=2000
 SAVEHIST=$HISTSIZE
 HISTFILE="$HOME/.history"
@@ -168,3 +168,6 @@ then
 else
   cat ~/today.txt
 fi
+
+# ONE LINE COMMANDS
+alias myip="ifconfig en0 | grep \"inet \"| cut -d' ' -f2"
