@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/donal/GoogleDrive/Dropbox/devStuff/projects/sdp-group-6c-2015/File Sender I2C'
+let g:netrw_dirhist_2='/Users/donal/GoogleDrive/Dropbox/devStuff/projects/sdp-group-6c-2015/File Sender I2C/I2Cfilesender'
+let g:netrw_dirhist_3='/Users/donal/GoogleDrive/Dropbox/devStuff/projects/sdp-group-6c-2015/Servo/src/ServoTest'
+let g:netrw_dirhist_4='/Users/donal/GoogleDrive/Dropbox/devStuff/projects/biosciapp/fundapplication/formapp'
+let g:netrw_dirhist_5='/Users/donal/GoogleDrive/Dropbox/devStuff/projects/biosciapp/fundapplication/formapp/templates'
+let g:netrw_dirhist_6='/Users/donal/GoogleDrive/Dropbox/devStuff/projects/biosciapp/fundapplication/formapp/templates/formapp'
+let g:netrw_dirhist_7='/Users/donal/GoogleDrive/Dropbox/devStuff/projects/biosciapp/fundapplication/formapp'
